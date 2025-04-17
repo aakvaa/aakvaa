@@ -2,7 +2,7 @@
 
 🔧 **CPS Cybersecurity R&D Analyst** com foco em **DevSecOps**  
 ☁️ Especialista em automação de infraestrutura e pipelines usando **Docker**, **Kubernetes**, **Terraform** e **Jenkins**  
-🛠️ Atualmente atuo com **Infrastructure as Code (IaC)**, **CI/CD**, segurança em esteira e ambientes on-premisses
+🛠️ Atualmente atuo com **Infrastructure as Code (IaC)**, **CI/CD**, segurança em esteira e ambientes **on-premises**
 
 ---
 
