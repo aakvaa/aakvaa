@@ -25,14 +25,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aakvaa&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakvaa&layout=compact&theme=radical)
-
----
-
 ### 📂 Projetos em Destaque
 
 - [`xcp-ng.vm-deployer`](https://github.com/aakvaa/xcp-ng.vm-deployer) • Automação de deploy via Terraform em ambiente XCP-ng
