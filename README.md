@@ -12,7 +12,7 @@
 - ☸️ Kubernetes  
 - 🌍 Terraform | Ansible  
 - ⚙️ Jenkins | GitHub Actions | GitLab CI | Shared Libraries
-- 📦 Helm | ArgoCD | Kustomize  
+- 📦 Helm | ArgoCD | Harbor 
 - 🔐 Integração de segurança em pipelines (DevSecOps)
 
 ---
