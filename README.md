@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Thalles Macedo
 
-🔧 **DevSecOps Analyst**
+🔧 **DevSecOps Analyst**.
 ☁️ Especialista em infraestrutura como código e pipelines usando **Terraform**, **Ansible**, **Docker**, **Kubernetes**, **Gitlab CI** e **Jenkins**.
 🛠️ Atuo atualmente com desenvolvimento e implementações de soluções de **Infrastructure as Code (IaC)**, **CI/CD** e segurança em esteira em ambientes híbridos (**on-premises** e AWS).
 
